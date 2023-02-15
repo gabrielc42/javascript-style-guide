@@ -1,2 +1,2 @@
-(javascript-style-guide)[https://google.github.io/styleguide/jsguide.html]
+[javascript-style-guide](https://google.github.io/styleguide/jsguide.html)
 
